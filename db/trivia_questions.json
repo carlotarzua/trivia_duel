@@ -1,0 +1,1811 @@
+[
+    {
+        "id": 1,
+        "content":"Which film won the Academy Award for Best Picture in 2020?",
+        "option1":"1917",
+        "option2":"Joker",
+        "option3":"Parasite",
+        "option4":"Ford v Ferrari",
+        "solution":"Parasite"
+    },
+    {
+        "id": 2,
+        "content":"Who played the character of Arthur Fleck in the 2019 film Joker?",
+        "option1":"Heath Ledger",
+        "option2":"Jared Leto",
+        "option3":"Joaquin Phoenix",
+        "option4":"Leonardo DiCaprio",
+        "solution":"Joaquin Phoenix"
+    },
+    {
+        "id": 3,
+        "content":"In Stranger Things, what is the name of the small town where the show is set?",
+        "option1":"Hawkins",
+        "option2":"Riverdale",
+        "option3":"Derry",
+        "option4":"Beacon Hills",
+        "solution":"Hawkins"
+    },
+    {
+        "id": 4,
+        "content":"Which movie is the fourth installment of the Mission: Impossible series released in 2011?",
+        "option1":"Mission: Impossible - Rogue Nation",
+        "option2":"Mission: Impossible - Ghost Protocol",
+        "option3":"Mission: Impossible - Fallout",
+        "option4":"Mission: Impossible - Dead Reckoning",
+        "solution":"Mission: Impossible - Ghost Protocol"
+    },
+    {
+        "id": 5,
+        "content":"In The Mandalorian, what is the name of the child traveling with the Mandalorian?",
+        "option1":"Yaddle",
+        "option2":"Yoda Jr.",
+        "option3":"Grogu",
+        "option4":"Baby Yoda",
+        "solution":"Grogu"
+    },
+    {
+        "id": 6,
+        "content":"Which actor played the lead role in the movie Ford v Ferrari?",
+        "option1":"Christian Bale",
+        "option2":"Matt Damon",
+        "option3":"Robert Downey Jr",
+        "option4":"Brad Pitt",
+        "solution":"Christian Bale"
+    },
+    {
+        "id": 7,
+        "content":"In The Queen's Gambit, what is Beth Harmon’s main talent?",
+        "option1":"Painting",
+        "option2":"Chess",
+        "option3":"Piano",
+        "option4":"Writing",
+        "solution":"Chess"
+    },
+    {
+        "id": 8,
+        "content":"What is the name of the time-bending film directed by Christopher Nolan that was released in 2020?",
+        "option1":"Inception",
+        "option2":"Tenet",
+        "option3":"Interstellar",
+        "option4":"Dunkirk",
+        "solution":"Tenet"
+    },
+    {
+        "id": 9,
+        "content":"Which series features the character of Geralt of Rivia?",
+        "option1":"Shadow and Bone",
+        "option2":"The Witcher",
+        "option3":"His Dark Materials",
+        "option4":"The Expanse",
+        "solution":"The Witcher"
+    },
+    {
+        "id": 10,
+        "content":"In The Boys, what is the name of the superhero group that the main characters oppose?",
+        "option1":"The Justice League",
+        "option2":"The Guardians",
+        "option3":"The Seven",
+        "option4":"The Guardians of the Globe",
+        "solution":"The Seven"
+    },
+    {
+        "id": 11,
+        "content":"In the series Breaking Bad, what is the street name of the blue methamphetamine produced by Walter White?",
+        "option1":"Blue Sky",
+        "option2":"Blue Ice",
+        "option3":"Crystal Blue",
+        "option4":"Blue Magic",
+        "solution":"Blue Sky"
+    },
+    {
+        "id": 12,
+        "content":"In Blade Runner 2049 (2017), what is the name of the advanced AI hologram that Officer K is romantically involved with?",
+        "option1":"Joi",
+        "option2":"Nea",
+        "option3":"Luna",
+        "option4":"Ada",
+        "solution":"Joi"
+    },
+    {
+        "id": 13,
+        "content":"In the movie The Revenant (2015), what is the name of the mountain man who betrays and leaves Hugh Glass for dead?",
+        "option1":"Bridger",
+        "option2":"Smith",
+        "option3":"Hawken",
+        "option4":"Fitzgerald",
+        "solution":"Fitzgerald"
+    },
+    {
+        "id": 14,
+        "content":"Which film, directed by Denis Villeneuve, involves a linguist who tries to communicate with extraterrestrial beings?",
+        "option1":"Interstellar",
+        "option2":"Arrival",
+        "option3":"Prometheus",
+        "option4":"Annihilation",
+        "solution":"Arrival"
+    },
+    {
+        "id": 15,
+        "content":"In Game of Thrones, who does Arya Stark first add to her kill list after escaping King's Landing?",
+        "option1":"Tywin Lannister",
+        "option2":"The Hound",
+        "option3":"Cersei Lannister",
+        "option4":"Ser Meryn Trant",
+        "solution":"Ser Meryn Trant"
+    },
+    {
+        "id": 16,
+        "content":"Which character does Mahershala Ali portray in the TV series True Detective (Season 3)?",
+        "option1":"Rust Cohle",
+        "option2":"Wayne Hays",
+        "option3":"Tom Purcell",
+        "option4":"Martin Hart",
+        "solution":"Wayne Hays"
+    },
+    {
+        "id": 17,
+        "content":"In Get Out (2017), what is the name of the procedure used by the Armitage family to transfer the consciousness of their friends into other bodies?",
+        "option1":"The Coagula",
+        "option2":"The Unification",
+        "option3":"The Ceremony",
+        "option4":"The Convergence",
+        "solution":"The Coagula"
+    },
+    {
+        "id": 18,
+        "content":"In the John Wick series, what is the name of the hotel where assassins find refuge, overseen by the character Winston?",
+        "option1":"The Metropolitan",
+        "option2":"The Sanctum",
+        "option3":"The Continental",
+        "option4":"The Empire",
+        "solution":"The Continental"
+    },
+    {
+        "id": 19,
+        "content":"In The Haunting of Hill House, what color is the infamous room that holds traumatic secrets for each member of the Crain family?",
+        "option1":"Red",
+        "option2":"Black",
+        "option3":"Blue",
+        "option4":"White",
+        "solution":"Red"
+    },
+    {
+        "id": 20,
+        "content":"In The Social Network (2010), what is the name of the co-founder who sues Mark Zuckerberg for diluting his shares in Facebook?",
+        "option1":"Sean Parker",
+        "option2":"Eduardo Saverin",
+        "option3":"Cameron Winklevoss",
+        "option4":"Divya Narendra",
+        "solution":"Eduardo Saverin"
+    },
+    {
+        "id": 21,
+        "content":"In Kill Bill, what is the code name of Uma Thurman’s character, also known as “The Bride”?",
+        "option1":"Cottonmouth",
+        "option2":"Black Mamba",
+        "option3":"Copperhead",
+        "option4":"Snake Charmer",
+        "solution":"Black Mamba"
+    },
+    {
+        "id": 22,
+        "content":"Which 2000s war movie starring Tom Hanks and directed by Steven Spielberg won the Academy Award for Best Cinematography?",
+        "option1":"Saving Private Ryan",
+        "option2":"Band of Brothers",
+        "option3":"The Thin Red Line",
+        "option4":"Flags of Our Fathers",
+        "solution":"Saving Private Ryan"
+    },
+    {
+        "id": 23,
+        "content":"Which 2006 film features Leonardo DiCaprio in a role as a diamond smuggler during a civil war in Sierra Leone?",
+        "option1":"Catch Me If You Can",
+        "option2":"Blood Diamond",
+        "option3":"The Departed",
+        "option4":"Body of Lies",
+        "solution":"Blood Diamond"
+    },
+    {
+        "id": 24,
+        "content":"In The Princess Bride, what is the name of the poison that Vizzni and Westley use during their battle of wits?",
+        "option1":"Dragonroot",
+        "option2":"Belladonna",
+        "option3":"Iocane Powder",
+        "option4":"Nightshade",
+        "solution":"Iocane Powder"
+    },
+    {
+        "id": 25,
+        "content":"In No Country For Old Men (2007), what is the weapon of choice for the character Anton Chigurh?",
+        "option1":"Knife",
+        "option2":"Shotgun",
+        "option3":"Bolt gun",
+        "option4":"Revolver",
+        "solution":"Bolt gun"
+    },
+    {
+        "id": 26,
+        "content":"In The Office (U.S.), what is the name of the company that buys out Dunder Mifflin in the later seasons?",
+        "option1":"Sabre",
+        "option2":"Utica Paper",
+        "option3":"Stamford Inc.",
+        "option4":"Prince Paper",
+        "solution":"Sabre"
+    },
+    {
+        "id": 27,
+        "content":"In Interstellar (2014), what is the name of the robot that assists Cooper and his crew on their mission?",
+        "option1":"HAL",
+        "option2":"TARS",
+        "option3":"KIPP",
+        "option4":"GERTY",
+        "solution":"TARS"
+    },
+    {
+        "id": 28,
+        "content":"In Avatar (2009), what is the name of the valuable mineral that humans are mining on Pandora?",
+        "option1":"Naivium",
+        "option2":"Pandorium",
+        "option3":"Unobtainium",
+        "option4":"Adamantium",
+        "solution":"Unobtainium"
+    },
+    {
+        "id": 29,
+        "content":"In The Walking Dead, what is the name of the town that Rick and his group establish as their base of operations?",
+        "option1":"Woodbury",
+        "option2":"Alexandria",
+        "option3":"Hilltop",
+        "option4":"Sanctuary",
+        "solution":"Alexandria"
+    },
+    {
+        "id": 30,
+        "content":"In Harry Potter and the Half-Blood Prince (2009), what potion does Professor Slughorn give to Harry as a reward for brewing the best potion in class?",
+        "option1":"Felix Felicis",
+        "option2":"Amortentia",
+        "option3":"Polyjuice Potion",
+        "option4":"Veritaserum",
+        "solution":"Felix Felicis"
+    },
+    {
+        "id": 31,
+        "content":"In Inglourious Basterds (2009), what is the name of the German war hero whose premiere Shosanna plans to sabotage?",
+        "option1":"Hans Landa",
+        "option2":"Wilhelm Wicki",
+        "option3":"Frederick Zoller",
+        "option4":"Hugo Stiglitz",
+        "solution":"Frederick Zoller"
+    },
+    {
+        "id": 32,
+        "content":"In The Legend of Korra, what is the name of the main antagonist of season 3 - 'Book Three: Change'?",
+        "option1":"Zaheer",
+        "option2":"Amon",
+        "option3":"Kuvira",
+        "option4":"Unalaq",
+        "solution":"Zaheer"
+    },
+    {
+        "id":33,
+        "content":"In The Matrix (1999), what is Neo's real name before he becomes 'The One'?",
+        "option1":"Thomas Anderson",
+        "option2":"John Doe",
+        "option3":"Elliot Anderson",
+        "option4":"David Roberts",
+        "solution":"Thomas Anderson"
+    },
+    {
+        "id":34,
+        "content":"In The Sixth Sense (1999), what profession does Dr. Malcolm Crowe practice?",
+        "option1":"Psychiatrist",
+        "option2":"Neurologist",
+        "option3":"General Surgeon",
+        "option4":"Social Worker",
+        "solution":"Psychiatrist"
+    },
+    {
+        "id":35,
+        "content":"In Alien: Resurrection (1997), what is Ellen Ripley’s clone number?",
+        "option1":"6",
+        "option2":"7",
+        "option3":"8",
+        "option4":"9",
+        "solution":"8"
+    },
+    {
+        "id":36,
+        "content":"In Toy Story (1995), who is Buzz Lightyear's arch-nemesis?",
+        "option1":"The Prospector",
+        "option2":"Sid",
+        "option3":"Stinky Pete",
+        "option4":"Emperor Zurg",
+        "solution":"Emperor Zurg"
+    },
+    {
+        "id":37,
+        "content":"In Fight Club (1999), what item does the Narrator hide in his suitcase, which causes suspicion at airport security?",
+        "option1":"A soap bar",
+        "option2":"A book titled 'Fight Club'",
+        "option3":"A suitcase bomb",
+        "option4":"A homemade bomb trigger",
+        "solution":"A soap bar"
+    },
+    {
+        "id":38,
+        "content":"In The Big Lebowski (1998), what is the full name of The Dude’s best friend, who is a Vietnam War veteran?",
+        "option1":"Walter Sobchak",
+        "option2":"Donny Kerabatsos",
+        "option3":"Jackie Treehorn",
+        "option4":"Jesus Quintana",
+        "solution":"Walter Sobchak"
+    },
+    {
+        "id":39,
+        "content":"In Titanic (1997), what deck does Jack Dawson sneak onto with his ticket?",
+        "option1":"C Deck",
+        "option2":"D Deck",
+        "option3":"E Deck",
+        "option4":"A Deck",
+        "solution":"C Deck"
+    },
+    {
+        "id":40,
+        "content":"In Star Wars: Episode I: The Phantom Menace (1999), who is Anakin’s mother?",
+        "option1":"Shmi Skywalker",
+        "option2":"Padmé Amidala",
+        "option3":"Satine Kryze",
+        "option4":"Beru Whitesun",
+        "solution":"Shmi Skywalker"
+    },
+    {
+        "id":41,
+        "content":"In Face/Off (1997), what type of weapon does Castor Troy’s brother specialize in?",
+        "option1":"Explosives",
+        "option2":"Knives",
+        "option3":"Sniper Rifles",
+        "option4":"Handguns",
+        "solution":"Explosives"
+    },
+    {
+        "id":42,
+        "content":"In Good Will Hunting (1997), what is Will's job at the beginning of the movie?",
+        "option1":"Construction Worker",
+        "option2":"Janitor",
+        "option3":"Bartender",
+        "option4":"Mechanic",
+        "solution":"Janitor"
+    },
+    {
+        "id":43,
+        "content":"In Jurassic Park (1993), what is the first dinosaur that Dr. Alan Grant and Dr. Ellie Sattler see when they arrive at the park?",
+        "option1":"Tyrannosaurus Rex",
+        "option2":"Velociraptor",
+        "option3":"Brachiosaurus",
+        "option4":"Triceratops",
+        "solution":"Brachiosaurus"
+    },
+    {
+        "id":44,
+        "content":"In Pulp Fiction (1994), what kind of burger does Jules describe as 'a tasty burger'?",
+        "option1":"McDonald's Big Mac",
+        "option2":"Jack in the Box Jumbo Jack",
+        "option3":"Big Kahuna Burger",
+        "option4":"Whopper",
+        "solution":"Big Kahuna Burger"
+    },
+    {
+        "id":45,
+        "content":"In The Shawshank Redemption (1994), what item does Andy Dufresne famously ask for to help tunnel his way out of prison?",
+        "option1":"A hammer",
+        "option2":"A spoon",
+        "option3":"A rock hammer",
+        "option4":"A knife",
+        "solution":"A rock hammer"
+    },
+    {
+        "id":46,
+        "content":"In Home Alone (1990), what nickname does Kevin give the two burglars, Harry and Marv?",
+        "option1":"The Sticky Bandits",
+        "option2":"The Wet Bandits",
+        "option3":"The Gruesome Twosome",
+        "option4":"The Robbery Brothers",
+        "solution":"The Wet Bandits"
+    },
+    {
+        "id":47,
+        "content":"In Schindler's List (1993), what color is the coat of the little girl seen during the liquidation of the Kraków ghetto?",
+        "option1":"Blue",
+        "option2":"Yellow",
+        "option3":"Red",
+        "option4":"Green",
+        "solution":"Red"
+    },
+    {
+        "id":48,
+        "content":"In The Silence of the Lambs (1991), what insect is found in the throat of one of Buffalo Bill's victims?",
+        "option1":"A locust",
+        "option2":"A death's-head hawk-moth",
+        "option3":"A spider",
+        "option4":"A butterfly",
+        "solution":"A death's-head hawk-moth"
+    },
+    {
+        "id":49,
+        "content":"In Forrest Gump (1994), which company does Forrest invest in that makes him wealthy?",
+        "option1":"Coca-Cola",
+        "option2":"Apple",
+        "option3":"Microsoft",
+        "option4":"IBM",
+        "solution":"Apple"
+    },
+    {
+        "id":50,
+        "content":"In Aladdin (1992), what is the first thing Aladdin wishes for from the Genie?",
+        "option1":"To become rich",
+        "option2":"To find Jasmine",
+        "option3":"To be set free",
+        "option4":"To be a prince",
+        "solution":"To be a prince"
+    },
+    {
+        "id":51,
+        "content":"In Back to the Future (1985), what is the precise speed Marty needs to reach in order to activate the DeLorean’s time travel?",
+        "option1":"85 mph",
+        "option2":"88 mph",
+        "option3":"90 mph",
+        "option4":"95 mph",
+        "solution":"88 mph"
+    },
+    {
+        "id":52,
+        "content":"In The Princess Bride (1987), what phrase does Westley often say to Buttercup?",
+        "option1":"As you wish",
+        "option2":"Forever yours",
+        "option3":"Only for you",
+        "option4":"True love",
+        "solution":"As you wish"
+    },
+    {
+        "id":53,
+        "content":"In Die Hard (1988), what is the name of the skyscraper where John McClane faces off against the terrorists?",
+        "option1":"Empire State Building",
+        "option2":"Nakatomi Plaza",
+        "option3":"Willis Tower",
+        "option4":"Stark Tower",
+        "solution":"Nakatomi Plaza"
+    },
+    {
+        "id":54,
+        "content":"In Beetlejuice (1988), how many times do you need to say Beetlejuice's name to summon him?",
+        "option1":"Once",
+        "option2":"Twice",
+        "option3":"Three times",
+        "option4":"Four times",
+        "solution":"Three times"
+    },
+    {
+        "id":55,
+        "content":"In Indiana Jones and the Last Crusade (1989), what is the Holy Grail believed to grant?",
+        "option1":"Immortality",
+        "option2":"Infinite knowledge",
+        "option3":"Wealth",
+        "option4":"Strength",
+        "solution":"Immortality"
+    },
+    {
+        "id":56,
+        "content":"In Aliens (1986), what type of weapon is Ellen Ripley famous for using in her final battle against the Alien Queen?",
+        "option1":"Pulse rifle",
+        "option2":"Grenade launcher",
+        "option3":"Flamethrower",
+        "option4":"Power loader",
+        "solution":"Power loader"
+    },
+    {
+        "id":57,
+        "content":"In The Little Mermaid (1989), what is the name of the sea witch who grants Ariel the ability to walk on land?",
+        "option1":"Morgana",
+        "option2":"Ursula",
+        "option3":"Athena",
+        "option4":"Syrena",
+        "solution":"Ursula"
+    },
+    {
+        "id":58,
+        "content":"In Lethal Weapon* (1987), what is the catchphrase commonly associated with Roger Murtaugh, especially in dangerous situations?",
+        "option1":"I’m getting too old for this",
+        "option2":"This is my last day",
+        "option3":"One last time",
+        "option4":"Not again!",
+        "solution":"I’m getting too old for this"
+    },
+    {
+        "id":59,
+        "content":"In The Goonies (1985), what treasure are the kids searching for?",
+        "option1":"The Lost Pearl",
+        "option2":"One-Eyed Willy’s treasure",
+        "option3":"The Cursed Gold",
+        "option4":"The Pirate’s Chest",
+        "solution":"One-Eyed Willy’s treasure"
+    },
+    {
+        "id":60,
+        "content":"In Who Framed Roger Rabbit (1988), what is the only substance capable of killing a cartoon character?",
+        "option1":"The Dip",
+        "option2":"Ink Remover",
+        "option3":"The Solvent",
+        "option4":"The Eraser",
+        "solution":"The Dip"
+    },
+    {
+        "id":61,
+        "content":"In The Empire Strikes Back (1980), which character famously says, 'I am your father'?",
+        "option1":"Obi-Wan Kenobi",
+        "option2":"Darth Vader",
+        "option3":"Yoda",
+        "option4":"Luke Skywalker",
+        "solution":"Darth Vader"
+    },
+    {
+        "id":62,
+        "content":"In Raiders of the Lost Ark (1981), what artifact is Indiana Jones seeking?",
+        "option1":"The Holy Grail",
+        "option2":"The Ark of the Covenant",
+        "option3":"The Spear of Destiny",
+        "option4":"The Crystal Skull",
+        "solution":"The Ark of the Covenant"
+    },
+    {
+        "id":63,
+        "content":"In Scarface (1983), what is Tony Montana’s iconic line before his final showdown?",
+        "option1":"Say hello to my little friend!",
+        "option2":"This town is mine!",
+        "option3":"I'm the king now!",
+        "option4":"Time to meet your maker!",
+        "solution":"Say hello to my little friend!"
+    },
+    {
+        "id":64,
+        "content":"In E.T. the Extra-Terrestrial (1982), what candy does Elliott use to lure E.T. into his home?",
+        "option1":"Skittles",
+        "option2":"M&M's",
+        "option3":"Reese’s Pieces",
+        "option4":"Gummy Bears",
+        "solution":"Reese’s Pieces"
+    },
+    {
+        "id":65,
+        "content":"In The Shining (1980), what word does Danny repeatedly write backwards?",
+        "option1":"Murder",
+        "option2":"Death",
+        "option3":"Blood",
+        "option4":"Fear",
+        "solution":"Murder"
+    },
+    {
+        "id":66,
+        "content":"In Ghostbusters (1984), what type of ghost is Slimer known as?",
+        "option1":"The Hungry Ghost",
+        "option2":"The Green Ghoul",
+        "option3":"The Ectoplasmic Phantom",
+        "option4":"The Class 5 Free-Roaming Vapor",
+        "solution":"The Class 5 Free-Roaming Vapor"
+    },
+    {
+        "id":67,
+        "content":"In The Terminator (1984), what is the name of the character sent back to protect Sarah Connor?",
+        "option1":"Kyle Reese",
+        "option2":"John Connor",
+        "option3":"T-800",
+        "option4":"Marcus Wright",
+        "solution":"Kyle Reese"
+    },
+    {
+        "id":68,
+        "content":"In Star Trek II: The Wrath of Khan (1982), what is the name of the project that can create life from lifeless matter?",
+        "option1":"Genesis",
+        "option2":"Omega",
+        "option3":"Project Phoenix",
+        "option4":"Nebula Project",
+        "solution":"Genesis"
+    },
+    {
+        "id":69,
+        "content":"In The Dark Crystal (1982), what race of creatures is Jen, the film’s protagonist?",
+        "option1":"Elf",
+        "option2":"Gelfling",
+        "option3":"Mystic",
+        "option4":"Skeksis",
+        "solution":"Gelfling"
+    },
+    {
+        "id":70,
+        "content":"In Flash Gordon (1980), who is the main antagonist ruling over the planet Mongo?",
+        "option1":"Emperor Zurg",
+        "option2":"Darth Vader",
+        "option3":"Ming the Merciless",
+        "option4":"The Phantom",
+        "solution":"Ming the Merciless"
+    },
+    {
+        "id":71,
+        "content":"How many seasons does The Simpsons have?",
+        "option1":"21",
+        "option2":"54",
+        "option3":"42",
+        "option4":"36",
+        "solution":"36"
+    },
+    {
+        "id":72,
+        "content":"Which of the following TV shows is not based on a video game?",
+        "option1":"Halo",
+        "option2":"The Witcher",
+        "option3":"The Last Of Us",
+        "option4":"Gangs of London",
+        "solution":"The Witcher"
+    },
+    {
+        "id":72,
+        "content":"Which of the following TV Shows has the most amount of seasons?",
+        "option1":"Modern Family",
+        "option2":"How I Met Your Mother",
+        "option3":"Friends",
+        "option4":"The Big Bang Theory",
+        "solution":"The Big Bang Theory"
+    },
+    {
+        "id":73,
+        "content":"Which of the following franchises has NOT released at least both a movie and tv series?",
+        "option1":"Breaking Bad",
+        "option2":"Mission Impossible",
+        "option3":"Peaky Blinders",
+        "option4":"Taken",
+        "solution":"Peaky Blinders"
+    },
+    {
+        "id":74,
+        "content":"Which of the following movies has the lowest score on rotton tomatoes?",
+        "option1":"Joker: Folie à Deux (2024)",
+        "option2":"The Flash (2023)",
+        "option3":"The Last Airbender (2010)",
+        "option4":"After Earth (2013)",
+        "solution":"The Last Airbender (2010)"
+    },
+    {
+        "id":75,
+        "content":"Which of the following seasons that in 2024 has highest rating according to rotton tomatoes?",
+        "option1":"Shogun : Season 1",
+        "option2":"Fallout : Season 1",
+        "option3":"The Penguin : Season 1",
+        "option4":"The Tourist : Season 2",
+        "solution":"Shogun : Season 1"
+    },
+    {
+        "id":76,
+        "content":"Of the CW Arrowverse TV series, which was the first to get canceled?",
+        "option1":"Batwoman",
+        "option2":"Arrow",
+        "option3":"Black Lightning",
+        "option4":"Supergirl",
+        "solution":"Arrow"
+    },
+    {
+        "id":77,
+        "content":"Which of the following Star Wars films has the most lightsaber duels?",
+        "option1":"Rise of Skywalker",
+        "option2":"Revenge of the Sith",
+        "option3":"The Force Awakens",
+        "option4":"Attack of the Clones",
+        "solution":"Revenge of the Sith"
+    },
+    {
+        "id":78,
+        "content":"Where does the quote come from? 'Taking on a challenge is a lot like riding a horse, isn’t it? If you’re comfortable while you’re doing it, you’re probably doing it wrong.'",
+        "option1":"Schitt's Creek",
+        "option2":"Parks and Recreation",
+        "option3":"Brooklyn Nine-Nine",
+        "option4":"Ted Lasso",
+        "solution":"Ted Lasso"
+    },
+    {
+        "id":79,
+        "content":"What is the name of the mother in 'How I Met Your Mother'?",
+        "option1":"Tracy McConnell",
+        "option2":"Robin Scherbatsky",
+        "option3":"Stella Zinman",
+        "option4":"Zoey Pierson",
+        "solution":"Tracy McConnell"
+    },
+    {
+        "id":80,
+        "content":"How does the Rose Family initially lose their wealth in 'Schitt's Creek'?",
+        "option1":"They gambled it away",
+        "option2":"They lost it in a business venture",
+        "option3":"Their accountant embezzled it",
+        "option4":"They get caught distributing illegal contraband",
+        "solution":"Their accountant embezzled it"
+    },
+    {
+        "id":81,
+        "content":"In The Truman Show (1998), what is the name of the town where Truman lives?",
+        "option1":"Sea Haven",
+        "option2":"Oceanview",
+        "option3":"Springfield",
+        "option4":"Seahorse Bay",
+        "solution":"Sea Haven"
+    },
+    {
+        "id":82,
+        "content":"Who was the first actor to portray the character Hannibal Lecter on screen?",
+        "option1":"Brian Cox",
+        "option2":"Anthony Hopkins",
+        "option3":"Mads Mikkelsen",
+        "option4":"Laurence Olivier",
+        "solution":"Brian Cox"
+    },
+    {
+        "id":83,
+        "content":"In Mad Men, what is the real name of the protagonist, Don Draper?",
+        "option1":"Richard Whitman",
+        "option2":"John Slater",
+        "option3":"Harold Higgins",
+        "option4":"Pete Campbell",
+        "solution":"Richard Whitman"
+    },
+    {
+        "id":84,
+        "content":"In The Sopranos, what animal does Tony see in the final season that he believes is a bad omen?",
+        "option1":"Cat",
+        "option2":"Crow",
+        "option3":"Owl",
+        "option4":"Dog",
+        "solution":"Cat"
+    },
+    {
+        "id":85,
+        "content":"In 2001: A Space Odyssey, what is the name of the Jupiter-bound spacecraft?",
+        "option1":"Discovery One",
+        "option2":"Voyager",
+        "option3":"Pioneer",
+        "option4":"Ares III",
+        "solution":"Discovery One"
+    },
+    {
+        "id":86,
+        "content":"In The Matrix, what is Neo told to follow to discover the truth?",
+        "option1":"White rabbit",
+        "option2":"Red pill",
+        "option3":"Blue bird",
+        "option4":"White feather",
+        "solution":"White rabbit"
+    },
+    {
+        "id":87,
+        "content":"What item does Indiana Jones seek in The Last Crusade to save his father?",
+        "option1":"The Ark",
+        "option2":"The Cross of Coronado",
+        "option3":"The Holy Grail",
+        "option4":"The Spear of Destiny",
+        "solution":"The Holy Grail"
+    },
+    {
+        "id":88,
+        "content":"In The Departed, what college is Matt Damon’s character affiliated with?",
+        "option1":"Boston University",
+        "option2":"University of Massachusetts",
+        "option3":"Suffolk University",
+        "option4":"Harvard",
+        "solution":"Suffolk University"
+    },
+    {
+        "id":89,
+        "content":"What is the first Marvel film in the MCU to introduce the Tesseract?",
+        "option1":"Thor",
+        "option2":"Captain America: The First Avenger",
+        "option3":"Iron Man 2",
+        "option4":"The Avengers",
+        "solution":"Captain America: The First Avenger"
+    },
+    {
+        "id":90,
+        "content":"In Westworld, what name does Dolores adopt as she begins her journey of rebellion?",
+        "option1":"Charlotte",
+        "option2":"Juliet",
+        "option3":"Wyatt",
+        "option4":"Athena",
+        "solution":"Wyatt"
+    },
+    {
+        "id":91,
+        "content":"In Finding Nemo, what type of fish is Dory?",
+        "option1":"Blue Tang",
+        "option2":"Yellow-finned Tang",
+        "option3":"Goldfish",
+        "option4":"Angelfish",
+        "solution":"Blue Tang"
+    },
+    {
+        "id":92,
+        "content":"What is the name of the hobbit played by Elijah Wood in The Lord of the Rings?",
+        "option1":"Frodo",
+        "option2":"Sam",
+        "option3":"Bilbo",
+        "option4":"Pippin",
+        "solution":"Frodo"
+    },
+    {
+        "id":93,
+        "content":"In 'Inception', what is the object called that each character uses to tell if they are in a dream?",
+        "option1":"Artifact",
+        "option2":"Charm",
+        "option3":"Totem",
+        "option4":"Memento",
+        "solution":"Totem"
+    },
+    {
+        "id":94,
+        "content":"What is the name of the actor who played Voldemort in the Harry Potter films?",
+        "option1":"Alan Rickman",
+        "option2":"Tom Felton",
+        "option3":"Ralph Fiennes",
+        "option4":"Gary Oldman",
+        "solution":"Ralph Fiennes"
+    },
+    {
+        "id":95,
+        "content":"What 1999 movie popularized the line, 'I see dead people'?",
+        "option1":"The Sixth Sense",
+        "option2":"The Others",
+        "option3":"Paranormal Activity",
+        "option4":"Stir of Echoes",
+        "solution":"The Sixth Sense"
+    },
+    {
+        "id":96,
+        "content":"What film was not parodied in Scary Movie (2000)?",
+        "option1":"The Exorcist",
+        "option2":"The Blair Witch Project",
+        "option3":"I Know What You Did Last Summer",
+        "option4":"Scream",
+        "solution":"The Exorcist"
+    },
+    {
+        "id":97,
+        "content":"In the Terminator franchise, what model number is Arnold Schwarzenegger’s character?",
+        "option1":"T-800",
+        "option2":"T-1000",
+        "option3":"T-500",
+        "option4":"T-X",
+        "solution":"T-800"
+    },
+    {
+        "id":98,
+        "content":"In Toy Story 3, who runs the daycare where the toys end up?",
+        "option1":"Woody",
+        "option2":"Lotso",
+        "option3":"Mr. Potato Head",
+        "option4":"Ken",
+        "solution":"Lotso"
+    },
+    {
+        "id":99,
+        "content":"In The Prestige, what is the name of the illusion that causes a deadly rivalry between the two magicians?",
+        "option1":"The Crippled Man",
+        "option2":"The Transported Man",
+        "option3":"The Disappearing Lady",
+        "option4":"The Great Escape",
+        "solution":"The Transported Man"
+    },
+    {
+        "id":100,
+        "content":"In Avatar: The Last Airbender, which of the following avatars does Aang NOT seek advice from?",
+        "option1":"Avatar Kuruk",
+        "option2":"Avatar Wan",
+        "option3":"Avatar Yangchen",
+        "option4":"Avatar Kyoshi",
+        "solution":"Avatar Wan"
+    },
+    {
+        "id": 101,
+        "content":"Which pop star is known as the 'Queen of Pop'?",
+        "option1":"Britney Spears",
+        "option2":"Beyoncé",
+        "option3":"Madonna",
+        "option4":"Lady Gaga",
+        "solution":"Madonna"
+    },
+    {
+        "id": 102,
+        "content":"Which 1980s band released the hit song 'Sweet Child O' Mine'?",
+        "option1":"Bon Jovi",
+        "option2":"Guns N' Roses",
+        "option3":"AC/DC",
+        "option4":"Metallica",
+        "solution":"Guns N' Roses"
+    },
+    {
+        "id":103,
+        "content":"Who is the lead vocalist of the rock band U2?",
+        "option1":"Sting",
+        "option2":"Bono",
+        "option3":"Freddie Mercury",
+        "option4":"David Bowie",
+        "solution":"Bono"
+    },
+    {
+        "id": 104,
+        "content": "Which artist is known for the 1982 album 'Thriller'?",
+        "option1": "Prince",
+        "option2": "Madonna",
+        "option3": "Michael Jackson",
+        "option4": "Stevie Wonder",
+        "solution": "Michael Jackson"
+    },
+    {
+        "id": 105,
+        "content": "Which famous band was Freddie Mercury a part of?",
+        "option1": "Led Zeppelin",
+        "option2": "Queen",
+        "option3": "The Rolling Stones",
+        "option4": "The Beatles",
+        "solution": "Queen"
+    },
+    {
+        "id": 106,
+        "content": "Who is the best-selling female artist of all time?",
+        "option1": "Celine Dion",
+        "option2": "Whitney Houston",
+        "option3": "Mariah Carey",
+        "option4": "Madonna",
+        "solution": "Madonna"
+    },
+    {
+        "id": 107,
+        "content": "In what year did Nirvana release their groundbreaking album 'Nevermind'?",
+        "option1": "1990",
+        "option2": "1991",
+        "option3": "1992",
+        "option4": "1993",
+        "solution": "1991"
+    },
+    {
+        "id": 108,
+        "content": "What is the name of the band that Kurt Cobain was the lead singer of?",
+        "option1": "Pearl Jam",
+        "option2": "Nirvana",
+        "option3": "Soundgarden",
+        "option4": "Alice in Chains",
+        "solution": "Nirvana"
+    },
+    {
+        "id": 109,
+        "content": "Which song is the best-selling single of all time?",
+        "option1": "White Christmas by Bing Crosby",
+        "option2": "Shape of You by Ed Sheeran",
+        "option3": "Candle in the Wind by Elton John",
+        "option4": "Despacito by Luis Fonsi",
+        "solution": "White Christmas by Bing Crosby"
+    },
+    {
+        "id": 110,
+        "content": "Which rapper is known for the album 'The Marshall Mathers LP'?",
+        "option1": "Jay-Z",
+        "option2": "Eminem",
+        "option3": "Nas",
+        "option4": "50 Cent",
+        "solution": "Eminem"
+    },
+    {
+        "id": 111,
+        "content": "Who wrote and originally performed the song 'Hallelujah'?",
+        "option1": "Bob Dylan",
+        "option2": "Leonard Cohen",
+        "option3": "Jeff Buckley",
+        "option4": "Paul Simon",
+        "solution": "Leonard Cohen"
+    },
+    {
+        "id": 112,
+        "content": "What iconic British band was fronted by Mick Jagger?",
+        "option1": "The Beatles",
+        "option2": "The Kinks",
+        "option3": "The Rolling Stones",
+        "option4": "The Who",
+        "solution": "The Rolling Stones"
+    },
+    {
+        "id": 113,
+        "content": "Which artist released the album 'Purple Rain'?",
+        "option1": "Prince",
+        "option2": "Michael Jackson",
+        "option3": "David Bowie",
+        "option4": "Whitney Houston",
+        "solution": "Prince"
+    },
+    {
+        "id": 114,
+        "content": "What is the stage name of Reginald Kenneth Dwight?",
+        "option1": "David Bowie",
+        "option2": "Elton John",
+        "option3": "Rod Stewart",
+        "option4": "Paul McCartney",
+        "solution": "Elton John"
+    },
+    {
+        "id": 115,
+        "content": "Who was the lead guitarist for Guns N' Roses?",
+        "option1": "Axl Rose",
+        "option2": "Slash",
+        "option3": "Izzy Stradlin",
+        "option4": "Duff McKagan",
+        "solution": "Slash"
+    },
+    {
+        "id": 116,
+        "content": "Which band released the song 'Smells Like Teen Spirit'?",
+        "option1": "Pearl Jam",
+        "option2": "Nirvana",
+        "option3": "Soundgarden",
+        "option4": "Alice in Chains",
+        "solution": "Nirvana"
+    },
+    {
+        "id": 117,
+        "content": "Which American rock band was known for the song 'Californication'?",
+        "option1": "Pearl Jam",
+        "option2": "The Eagles",
+        "option3": "Red Hot Chili Peppers",
+        "option4": "Green Day",
+        "solution": "Red Hot Chili Peppers"
+    },
+    {
+        "id": 118,
+        "content": "Who is known as the 'King of Pop'?",
+        "option1": "Elvis Presley",
+        "option2": "Prince",
+        "option3": "Michael Jackson",
+        "option4": "James Brown",
+        "solution": "Michael Jackson"
+    },
+    { 
+        "id": 119,
+        "content": "What genre is the band Metallica primarily associated with?",
+        "option1": "Punk Rock",
+        "option2": "Grunge",
+        "option3": "Heavy Metal",
+        "option4": "Alternative Rock",
+        "solution": "Heavy Metal"
+    },
+    { 
+        "id": 120, 
+        "content": "What song did Dolly Parton famously write and perform?", 
+        "option1": "Islands in the Stream", 
+        "option2": "Stand by Your Man", 
+        "option3": "Jolene", 
+        "option4": "Crazy", 
+        "solution": "Jolene" 
+    }, 
+    { 
+        "id": 121, 
+        "content": "Who is the frontman for the Foo Fighters?", 
+        "option1": "Eddie Vedder", 
+        "option2": "Chris Cornell", 
+        "option3": "Dave Grohl", 
+        "option4": "Kurt Cobain", 
+        "solution": "Dave Grohl" 
+    }, 
+    { 
+        "id": 122, 
+        "content": "Which band was known for the hit 'Livin' on a Prayer'?", 
+        "option1": "Aerosmith", 
+        "option2": "Bon Jovi", 
+        "option3": "Journey", 
+        "option4": "Def Leppard", 
+        "solution": "Bon Jovi" 
+    },
+    {
+        "id": 123,
+        "content": "What is the best-selling album of all time?",
+        "option1": "Back in Black by AC/DC",
+        "option2": "Abbey Road by The Beatles",
+        "option3": "Thriller by Michael Jackson",
+        "option4": "Hotel California by The Eagles",
+        "solution": "Thriller by Michael Jackson"
+    },
+    {
+        "id":124,
+        "content":"What album won Taylor Swift the Grammy for Album of the Year in 2021?",
+        "option1":"Lover",
+        "option2":"Evermore",
+        "option3":"Folklore",
+        "option4":"Red",
+        "solution":"Folklore"
+    },
+    {
+        "id":125,
+        "content":"Which rapper released the album 'DAMN.' in 2017, which later won the Pulitzer Prize for Music?",
+        "option1":"Drake",
+        "option2":"Kendrick Lamar",
+        "option3":"J. Cole",
+        "option4":"Jay-Z",
+        "solution":"Kendrick Lamar"
+    },
+    {
+        "id":126,
+        "content":"Which artist had a major hit in 2019 with the song 'Old Town Road'?",
+        "option1":"Lil Nas X",
+        "option2":"Post Malone",
+        "option3":"Travis Scott",
+        "option4":"Drake",
+        "solution":"Lil Nas X"
+    },
+    {
+        "id":127,
+        "content":"What was the debut single of Billie Eilish that went viral and launched her career?",
+        "option1":"Ocean Eyes",
+        "option2":"Bad Guy",
+        "option3":"Bury a Friend",
+        "option4":"Lovely",
+        "solution":"Ocean Eyes"
+    },
+    {
+        "id":128,
+        "content":"Which song by Ed Sheeran was the best-selling digital song worldwide in 2017?",
+        "option1":"Shape of You",
+        "option2":"Perfect",
+        "option3":"Thinking Out Loud",
+        "option4":"Castle on the Hill",
+        "solution":"Shape of You"
+    },
+    {
+        "id":129,
+        "content":"Who collaborated with Lady Gaga on the 2018 hit 'Shallow' from the movie 'A Star is Born'?",
+        "option1":"Bradley Cooper",
+        "option2":"Mark Ronson",
+        "option3":"Bruno Mars",
+        "option4":"Justin Timberlake",
+        "solution":"Bradley Cooper"
+    },
+    {
+        "id":130,
+        "content":"Which artist released the 2020 album 'After Hours,' featuring the hit single 'Blinding Lights'?",
+        "option1":"Drake",
+        "option2":"The Weeknd",
+        "option3":"Khalid",
+        "option4":"Post Malone",
+        "solution":"The Weeknd"
+    },
+    {
+        "id":131,
+        "content":"In 2014, which song by Pharrell Williams became widely popular for its cheerful theme?",
+        "option1":"Get Lucky",
+        "option2":"Blurred Lines",
+        "option3":"Happy",
+        "option4":"Freedom",
+        "solution":"Happy"
+    },
+    {
+        "id":132,
+        "content":"Which rapper had a hit in 2018 with the song 'SICKO MODE'?",
+        "option1":"Travis Scott",
+        "option2":"Drake",
+        "option3":"Kanye West",
+        "option4":"Post Malone",
+        "solution":"Travis Scott"
+    },
+    {
+        "id":133,
+        "content":"What is the name of the debut single that launched Cardi B to fame in 2017?",
+        "option1":"I Like It",
+        "option2":"Money",
+        "option3":"Bodak Yellow",
+        "option4":"WAP",
+        "solution":"Bodak Yellow"
+    },
+    {
+        "id":134,
+        "content":"Which band released the album 'AM' in 2013, featuring the hit song 'Do I Wanna Know?'",
+        "option1":"Tame Impala",
+        "option2":"Arctic Monkeys",
+        "option3":"The Strokes",
+        "option4":"Kings of Leon",
+        "solution":"Arctic Monkeys"
+    },
+    {
+        "id":135,
+        "content":"Who collaborated with Rihanna on the 2010 hit 'Love the Way You Lie'?",
+        "option1":"Drake",
+        "option2":"Jay-Z",
+        "option3":"Eminem",
+        "option4":"Kanye West",
+        "solution":"Eminem"
+    },
+    {
+        "id":136,
+        "content":"Which rapper's 2021 album 'Certified Lover Boy' broke Spotify records on its first day?",
+        "option1":"Drake",
+        "option2":"J. Cole",
+        "option3":"Kanye West",
+        "option4":"Lil Wayne",
+        "solution":"Drake"
+    },
+    {
+        "id":137,
+        "content":"What is the name of BTS's first all-English single that topped the charts worldwide?",
+        "option1":"Butter",
+        "option2":"Boy With Luv",
+        "option3":"Dynamite",
+        "option4":"Permission to Dance",
+        "solution":"Dynamite"
+    },
+    {
+        "id":138,
+        "content":"What is the name of the song by Childish Gambino that won the Best Traditional R&B Performance award at the Grammys?",
+        "option1":"Feels Like Summer",
+        "option2":"This Is America",
+        "option3":"Redbone",
+        "option4":"Sober",
+        "solution":"Redbone"
+    },
+    {
+        "id":139,
+        "content":"Which rapper released the hit 'Hotline Bling' in 2015?",
+        "option1":"Kanye West",
+        "option2":"J. Cole",
+        "option3":"Drake",
+        "option4":"Travis Scott",
+        "solution":"Drake"
+    },
+    {
+        "id":140,
+        "content":"Which K-pop group made history as the first to perform at the Grammy Awards in 2019?",
+        "option1":"Blackpink",
+        "option2":"BTS",
+        "option3":"EXO",
+        "option4":"Twice",
+        "solution":"BTS"
+    },
+    {
+        "id":141,
+        "content":"Who released the 2019 song 'Bad Guy,' which went on to win Record of the Year at the Grammys?",
+        "option1":"Ariana Grande",
+        "option2":"Billie Eilish",
+        "option3":"Dua Lipa",
+        "option4":"Halsey",
+        "solution":"Billie Eilish"
+    },
+    {
+        "id":142,
+        "content":"Wheres that lyric from? 'Just a small-town girl, living in a lonely world'",
+        "option1":"Don't Stop Believin' - Journey",
+        "option2":"Eye of the Tiger - Survivor",
+        "option3":"Sweet Child O' Mine - Guns N' Roses",
+        "option4":"Livin' on a Prayer - Bon Jovi",
+        "solution":"Don't Stop Believin' - Journey"
+    },
+    {
+        "id":143,
+        "content":"Wheres that lyric from? 'I see a little silhouetto of a man, Scaramouche, Scaramouche, will you do the Fandango?'",
+        "option1":"We Will Rock You - Queen",
+        "option2":"Don't Stop Me Now - Queen",
+        "option3":"Bohemian Rhapsody - Queen",
+        "option4":"Radio Ga Ga - Queen",
+        "solution":"Bohemian Rhapsody - Queen"
+    },
+    {
+        "id":144,
+        "content":"Wheres that lyric from? 'I stay up too late, got nothing in my brain, that’s what people say'",
+        "option1":"Shake It Off - Taylor Swift",
+        "option2":"Blank Space - Taylor Swift",
+        "option3":"22 - Taylor Swift",
+        "option4":"You Belong With Me - Taylor Swift",
+        "solution":"Shake It Off - Taylor Swift"
+    },
+    {
+        "id":145,
+        "content":"Wheres that lyric from? 'I've got sunshine on a cloudy day, when it's cold outside, I've got the month of May'",
+        "option1":"My Girl - The Temptations",
+        "option2":"Ain't Too Proud to Beg - The Temptations",
+        "option3":"Stand by Me - Ben E. King",
+        "option4":"I Heard It Through the Grapevine - Marvin Gaye",
+        "solution":"My Girl - The Temptations"
+    },
+    {
+        "id":146,
+        "content":"Wheres that lyric from? 'Tequila!'",
+        "option1":"Tequila - The Champs",
+        "option2":"Wipeout - The Surfaris",
+        "option3":"Misirlou - Dick Dale",
+        "option4":"Mambo No. 5 - Perez Prado",
+        "solution":"My Girl - The Temptations"
+    },
+    {
+        "id":147,
+        "content":"Which artist’s album, YHLQMDLG, became one of the best-selling reggaeton albums in 2020?",
+        "option1":"J Balvin",
+        "option2":"Bad Bunny",
+        "option3":"Daddy Yankee",
+        "option4":"Ozuna",
+        "solution":"Bad Bunny"
+    },
+    {
+        "id":148,
+        "content":"Which song by Daddy Yankee is often credited with popularizing reggaeton globally?",
+        "option1":"Gasolina",
+        "option2":"Dura",
+        "option3":"Rompe",
+        "option4":"Despacito",
+        "solution":"Gasolina"
+    },
+    {
+        "id":149,
+        "content":"Which band had a hit with the 2004 song 'Boulevard of Broken Dreams'?",
+        "option1":"Fall Out Boy",
+        "option2":"Linkin Park",
+        "option3":"Green Day",
+        "option4":"The All-American Rejects",
+        "solution":"Green Day"
+    },
+    {
+        "id":150,
+        "content":"Which artist is known for popularizing the corridos tumbados genre?",
+        "option1":"Peso Pluma",
+        "option2":"Natanael Cano",
+        "option3":"Los Tigres del Norte",
+        "option4":"Chalino Sánchez",
+        "solution":"Natanael Cano"
+    },
+    {
+        "id":151,
+        "content":"Which band had a featured song in the 2007 film, Transformers?",
+        "option1":"Thirt Seconds To Mars",
+        "option2":"Linkin Park",
+        "option3":"Green Day",
+        "option4":"Foo Fighters",
+        "solution":"Linkin Park"
+    },
+    {
+        "id":152,
+        "content":"Which artist composed the soundtrack for the 2010 film, Tron: Legacy?",
+        "option1":"Nine Inch Nails",
+        "option2":"Thirt Seconds To Mars",
+        "option3":"Ludwig Goransson",
+        "option4":"Daft Punk",
+        "solution":"Daft Punk"
+    },
+    {
+        "id":153,
+        "content":"Which artist produced the soundtrack for the 2023 film, Spider-Man: Across the Spider-Verse?",
+        "option1":"Metro Boomin",
+        "option2":"Kendrick Lamar",
+        "option3":"Post Malone",
+        "option4":"DJ Khalid",
+        "solution":"Metro Boomin"
+    },
+    {
+        "id":154,
+        "content":"Which artist produced the soundtrack for the 2014 film, Interstellar?",
+        "option1":"Ludwig Goransson",
+        "option2":"John Williams",
+        "option3":"Danny Elfman",
+        "option4":"Hans Zimmer",
+        "solution":"Metro Boomin"
+    },
+    {
+        "id":155,
+        "content":"Which band had a hit with the 2015 song 'Stressed Out'?",
+        "option1":"Panic! At The Disco",
+        "option2":"Twenty One Pilots",
+        "option3":"Fall Out Boy",
+        "option4":"Cage The Elephant",
+        "solution":"Twenty One Pilots"
+    },
+    {
+        "id":156,
+        "content":"Wheres that lyric from? 'I ain't happy, I'm feeling glad, I got sunshine in a bag'",
+        "option1":"Ain't No Rest For The Wicked - Cage The Elephant",
+        "option2":"Reptilia - The Strokes",
+        "option3":"Clint Eastwood - Gorillaz",
+        "option4":"R U Mine? - Arctic Monkeys",
+        "solution":"Clint Eastwood - Gorillaz"
+    },
+    {
+        "id":157,
+        "content":"Wheres that lyric from? 'The room is on fire as she's fixing her hair'",
+        "option1":"Ain't No Rest For The Wicked - Cage The Elephant",
+        "option2":"Reptilia - The Strokes",
+        "option3":"Clint Eastwood - Gorillaz",
+        "option4":"R U Mine? - Arctic Monkeys",
+        "solution":"Clint Eastwood - Gorillaz"
+    },
+    {
+        "id":158,
+        "content":"What is the name of the debut album by Olivia Rodrigo, featuring the hit single 'Driver’s License'?",
+        "option1":"Good 4 U",
+        "option2":"SOUR",
+        "option3":"GUTS",
+        "option4":"Bitter Sweet",
+        "solution":"SOUR"
+    },
+    {
+        "id":159,
+        "content":"Which Colombian artist is known for hit songs like 'Hips Don’t Lie' and 'Waka Waka'?",
+        "option1":"Shakira",
+        "option2":"Karol G",
+        "option3":"J Balvin",
+        "option4":"Maluma",
+        "solution":"Shakira"
+    },
+    {
+        "id":160,
+        "content":"Who is the Puerto Rican artist behind the hit 2023 single 'MONACO'?",
+        "option1":"Bad Bunny",
+        "option2":"Ozuna",
+        "option3":"Daddy Yankee",
+        "option4":"Anuel AA",
+        "solution":"Bad Bunny"
+    },
+    {
+        "id":161,
+        "content":"What movie did Leonardo DiCaprio finally win his first Oscar for?",
+        "option1":"The Revenant",
+        "option2":"Inception",
+        "option3":"The Wolf of Wall Street",
+        "option4":"Titanic",
+        "solution":"The Revenant"
+    },
+    {
+        "id":162,
+        "content":"Which band recorded the theme song for the James Bond film 'Skyfall'?",
+        "option1":"Radiohead",
+        "option2":"Adele",
+        "option3":"Sam Smith",
+        "option4":"Billie Eilish",
+        "solution":"Adele"
+    },
+    {
+        "id":163,
+        "content":"Which movie features the song 'My Heart Will Go On' by Celine Dion?",
+        "option1":"The Bodyguard",
+        "option2":"Titanic",
+        "option3":"Ghost",
+        "option4":"Pretty Woman",
+        "solution":"Titanic"
+    },
+    {
+        "id":164,
+        "content":"Who directed the movie Pulp Fiction?",
+        "option1":"Martin Scorsese",
+        "option2":"Steven Spielberg",
+        "option3":"Quentin Tarantino",
+        "option4":"Francis Ford Coppola",
+        "solution":"Quentin Tarantino"
+    },
+    {
+        "id":165,
+        "content":"Who won an Oscar for their role in *Black Swan*?",
+        "option1":"Mila Kunis",
+        "option2":"Natalie Portman",
+        "option3":"Emma Stone",
+        "option4":"Anne Hathaway",
+        "solution":"Natalie Portman"
+    },
+    {
+        "id":166,
+        "content":"What was the first Pixar movie ever released?",
+        "option1":"Toy Story",
+        "option2":"Finding Nemo",
+        "option3":"Monsters, Inc.",
+        "option4":"The Incredibles",
+        "solution":"Toy Story"
+    },
+    {
+        "id":167,
+        "content":"Which movie had the tagline 'In space, no one can hear you scream'?",
+        "option1":"2001: A Space Odyssey",
+        "option2":"Alien",
+        "option3":"Star Wars",
+        "option4":"Event Horizon",
+        "solution":"Alien"
+    },
+    {
+        "id":168,
+        "content":"Who directed the 1993 movie Jurassic Park?",
+        "option1":"James Cameron",
+        "option2":"Steven Spielberg",
+        "option3":"George Lucas",
+        "option4":"Ridley Scott",
+        "solution":"Steven Spielberg"
+    },
+    {
+        "id":169,
+        "content":"Which actress stars in the movie La La Land alongside Ryan Gosling?",
+        "option1":"Emma Stone",
+        "option2":"Jennifer Lawrence",
+        "option3":"Anne Hathaway",
+        "option4":"Emma Watson",
+        "solution":"Emma Stone"
+    },
+    {
+        "id":170,
+        "content":"Who is known for the hit single 'Uptown Funk' with Bruno Mars?",
+        "option1":"Pharrell Williams",
+        "option2":"Mark Ronson",
+        "option3":"Justin Timberlake",
+        "option4":"Pitbull",
+        "solution":"Mark Ronson"
+    },
+    {
+        "id":171,
+        "content":"What is Bruno Mars' break out single?",
+        "option1":"Just The Way You Are",
+        "option2":"Grenade",
+        "option3":"Nothing On You",
+        "option4":"Locked Out Of Heaven",
+        "solution":"Just The Way You Are"
+    },
+    {
+        "id":172,
+        "content":"What is Bruno Mars' break out single?",
+        "option1":"Just The Way You Are",
+        "option2":"Grenade",
+        "option3":"Nothing On You",
+        "option4":"Locked Out Of Heaven",
+        "solution":"Just The Way You Are"
+    },
+    {
+        "id":173,
+        "content":"Which artist is known as the 'King of Country Music'?",
+        "option1":"Johnny Cash",
+        "option2":"Willie Nelson",
+        "option3":"George Strait",
+        "option4":"Garth Brooks",
+        "solution":"George Strait"
+    },
+    {
+        "id":174,
+        "content":"Which song by Dolly Parton was famously covered by Whitney Houston?",
+        "option1":"Jolene",
+        "option2":"I Will Always Love You",
+        "option3":"9 to 5",
+        "option4":"Islands in the Stream",
+        "solution":"I Will Always Love You"
+    },
+    {
+        "id":175,
+        "content":"What is the name of the country artist who released the album 'Golden Hour', winning the Grammy for Album of the Year in 2019?",
+        "option1":"Miranda Lambert",
+        "option2":"Kacey Musgraves",
+        "option3":"Carrie Underwood",
+        "option4":"Maren Morris",
+        "solution":"Kacey Musgraves"
+    },
+    {
+        "id":176,
+        "content":"Who is the best-selling country artist of all time?",
+        "option1":"Johnny Cash",
+        "option2":"Garth Brooks",
+        "option3":"George Jones",
+        "option4":"Willie Nelson",
+        "solution":"Garth Brooks"
+    },
+    {
+        "id":177,
+        "content":"Which singer-songwriter released the song 'Take Me Home, Country Roads'?",
+        "option1":"Kenny Rogers",
+        "option2":"Willie Nelson",
+        "option3":"John Denver",
+        "option4":"Waylon Jennings",
+        "solution":"John Denver"
+    },
+    {
+        "id":178,
+        "content":"Which artist is known for the hits 'Before He Cheats' and 'Jesus, Take the Wheel'?",
+        "option1":"Carrie Underwood",
+        "option2":"Miranda Lambert",
+        "option3":"Taylor Swift",
+        "option4":"Reba McEntire",
+        "solution":"Carrie Underwood"
+    },
+    {
+        "id":179,
+        "content":"Who sang the country hit 'Friends in Low Places'?",
+        "option1":"Alan Jackson",
+        "option2":"Garth Brooks",
+        "option3":"George Strait",
+        "option4":"Blake Shelton",
+        "solution":"Garth Brooks"
+    },
+    {
+        "id":180,
+        "content":"What was Johnny Cash’s nickname, inspired by his dark attire?",
+        "option1":"The Outlaw",
+        "option2":"The Black Rider",
+        "option3":"The Man in Black",
+        "option4":"The Country Crooner",
+        "solution":"The Man in Black"
+    },
+    {
+        "id":181,
+        "content":"Which female artist had a hit with the song 'Man! I Feel Like a Woman!'?",
+        "option1":"Shania Twain",
+        "option2":"Reba McEntire",
+        "option3":"Faith Hill",
+        "option4":"Dolly Parton",
+        "solution":"Shania Twain"
+    },
+    {
+        "id":182,
+        "content":"Which country duo is known for hits like 'Need You Now' and 'American Honey'?",
+        "option1":"Florida Georgia Line",
+        "option2":"Dan + Shay",
+        "option3":"Brooks & Dunn",
+        "option4":"Lady A",
+        "solution":"Lady A"
+    },
+    {
+        "id":183,
+        "content":"What is Deftones' break out song?",
+        "option1":"Change (In The House of Flies)",
+        "option2":"Cherry Waves",
+        "option3":"My Own Summer (Shove It)",
+        "option4":"Be Quiet And Drive (Far Away)",
+        "solution":"Be Quiet And Drive (Far Away)"
+    },
+    {
+        "id":184,
+        "content":"What is Rihanna's break out single?",
+        "option1":"Umbrella",
+        "option2":"Disturbia",
+        "option3":"Pon de Replay",
+        "option4":"Dont Stop The Music",
+        "solution":"Pon de Replay"
+    },
+    {
+        "id":185,
+        "content":"What is Childish Gambino's break out single?",
+        "option1":"3005",
+        "option2":"Bonfire",
+        "option3":"Redbone",
+        "option4":"Freak and Geeks",
+        "solution":"Bonfire"
+    },
+    {
+        "id":186,
+        "content":"What is the title of Radiohead’s hit song from their 1997 album 'OK Computer', often regarded as one of their most influential tracks?",
+        "option1":"Creep",
+        "option2":"Paranoid Android",
+        "option3":"Karma Police",
+        "option4":"High and Dry",
+        "solution":"Karma Police"
+    },
+    {
+        "id":187,
+        "content":"What is the name of Frank Ocean’s critically acclaimed debut studio album, released in 2012?",
+        "option1":"Channel Orange",
+        "option2":"Blonde",
+        "option3":"Nostalgia, Ultra",
+        "option4":"Endless",
+        "solution":"Channel Orange"
+    },
+    {
+        "id":188,
+        "content":"What is Daft Punk's hit song featuring Pharrell Williams, which became a global sensation in 2013?",
+        "option1":"Around the World",
+        "option2":"Harder, Better, Faster, Stronger",
+        "option3":"One More Time",
+        "option4":"Get Lucky",
+        "solution":"Get Lucky"
+    },
+    {
+        "id":189,
+        "content":"What is Kanye West's debut album, released in 2004?",
+        "option1":"The College Dropout",
+        "option2":"Graduation",
+        "option3":"Late Registration",
+        "option4":"808s & Heartbreak",
+        "solution":"The College Dropout"
+    },
+    {
+        "id":190,
+        "content":"Which Kanye West album is often regarded as one of the greatest hip-hop albums and includes the single 'Power'?",
+        "option1":"Ye",
+        "option2":"The Life of Pablo",
+        "option3":"My Beautiful Dark Twisted Fantasy",
+        "option4":"Graduation",
+        "solution":"My Beautiful Dark Twisted Fantasy"
+    },
+    {
+        "id":191,
+        "content":"Which hip hop artist is famously known for their strained relationship with their mother and partner?",
+        "option1":"Lil Wayne",
+        "option2":"Dr Dre",
+        "option3":"50 Cent",
+        "option4":"Eminem",
+        "solution":"Eminem"
+    },
+    {
+        "id":192,
+        "content":"What is the title of One Direction's debut single, released in 2011, which launched them to global fame?",
+        "option1":"What Makes You Beautiful",
+        "option2":"Live While We're Young",
+        "option3":"Story of My Life",
+        "option4":"Best Song Ever",
+        "solution":"What Makes You Beautiful"
+    },
+    {
+        "id":193,
+        "content":"What is Kid Cudi’s breakout single from 2008 that brought him mainstream attention?",
+        "option1":"Pursuit of Happiness",
+        "option2":"Erase Me",
+        "option3":"Day 'n' Nite",
+        "option4":"Mr. Rager",
+        "solution":"Day 'n' Nite"
+    },
+    {
+        "id":194,
+        "content":"What is the title of The White Stripes' iconic song, often chanted at sports events?",
+        "option1":"Blue Orchid",
+        "option2":"Fell in Love with a Girl",
+        "option3":"Seven Nation Army",
+        "option4":"Icky Thump",
+        "solution":"Seven Nation Army"
+    },
+    {
+        "id":195,
+        "content":"What is the title of J. Cole’s 2014 album, which includes the hit song 'No Role Modelz'?",
+        "option1":"Born Sinner",
+        "option2":"4 Your Eyez Only",
+        "option3":"2014 Forest Hills Drive",
+        "option4":"KOD",
+        "solution":"2014 Forest Hills Drive"
+    },
+    {
+        "id":196,
+        "content":"What is Franz Ferdinand’s breakout single from 2004 that became an international hit?",
+        "option1":"Take Me Out",
+        "option2":"Do You Want To",
+        "option3":"This Fire",
+        "option4":"Ulysses",
+        "solution":"Take Me Out"
+    },
+    {
+        "id":197,
+        "content":"What is The Strokes breakout single from their 2001 albumn 'This Is It'?",
+        "option1":"Last Nite",
+        "option2":"Hard to Explain",
+        "option3":"12:51",
+        "option4":"Reptilia",
+        "solution":"Last Nite"
+    },
+    {
+        "id":198,
+        "content":"Which Metallica album features the iconic song 'Enter Sandman'?",
+        "option1":"Master of Puppets",
+        "option2":"Ride the Lighting",
+        "option3":"The Black Album",
+        "option4":"And Justice for All",
+        "solution":"The Black Album"
+    },
+    {
+        "id":199,
+        "content":"Which Linkin Park album features the hit single 'In the End'?",
+        "option1":"Minutes to Midnight",
+        "option2":"Hybrid Theory",
+        "option3":"A Thousand Suns",
+        "option4":"Meteora",
+        "solution":"Hybrid Theory"
+    },
+    {
+        "id":200,
+        "content":"Which Bee Gees song became a major hit in 1977, featured on the 'Saturday Night Fever' soundtrack?",
+        "option1":"Night Fever",
+        "option2":"To Love Somebody",
+        "option3":"How Deep Is Your Love",
+        "option4":"Stayin' Alive",
+        "solution":"Stayin' Alive"
+    }
+]
